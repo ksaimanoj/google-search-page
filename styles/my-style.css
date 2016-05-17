@@ -1,0 +1,53 @@
+.result a:first-child{
+	margin: 0;
+	font-size: 1.1em;
+}
+
+.result p:nth-child(2){
+	color: green;
+}
+
+.result p {
+	font-size: 14px;
+	margin: 2px;
+}
+
+.result a {
+	font-size: 14px;
+	text-decoration: none;
+	color: #00a;
+}
+
+.result a:hover {
+	text-decoration: underline;
+}
+
+.result {
+	margin: 25px;
+}
+
+.date {
+	opacity: .5;
+}
+
+.inline {
+	display: inline;
+}
+
+#ad .advertisement {
+	color: white;
+	background-color: #ee0;
+	border-radius: 2px;
+}
+
+#ad .green {
+	color: green;
+}
+
+h3 {
+	opacity: 0.7;
+}
+
+table a{
+	text-decoration: none;
+}
